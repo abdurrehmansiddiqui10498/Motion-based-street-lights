@@ -1,0 +1,7 @@
+This is a automated street lamps which will automatically open at night.
+The components that I used are as following
+1) IR module
+2) LED
+3) LDR module
+4) Arduino UNO
+5) Breadboard
